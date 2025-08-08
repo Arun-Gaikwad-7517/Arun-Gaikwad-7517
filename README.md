@@ -77,10 +77,10 @@ Passionate Full Stack Developer with expertise in modern web technologies and us
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arungaikwad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
+```## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arungaikwad&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
+</div>```
 
 ## 📈 Contribution Graph
 <div align="center">
@@ -146,3 +146,4 @@ const arun = {
   
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
